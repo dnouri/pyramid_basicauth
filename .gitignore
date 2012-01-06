@@ -1,4 +1,6 @@
 bin/
+dist/
 include/
 lib/
 local
+pyramid_basicauth.egg-info/

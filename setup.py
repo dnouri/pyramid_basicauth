@@ -11,7 +11,7 @@ except IOError:
 requires = ['pyramid', 'Paste']
 
 setup(name='pyramid_basicauth',
-      version='0.0',
+      version='0.1',
       description="Pyramid plugin for HTTP Basic access authentication",
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
